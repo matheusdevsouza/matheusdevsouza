@@ -64,6 +64,8 @@ I take pride in continuously exploring innovative ways to enhance the functional
 
 ## 📞 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=ffffff&labelColor=000000)](https://www.linkedin.com/in/matheusouzadev/)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&color=ffffff&labelColor=000000)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=ffffff&labelColor=000000)
 
 <br>
 

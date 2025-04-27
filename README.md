@@ -55,7 +55,7 @@ I take pride in continuously exploring innovative ways to enhance the functional
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=74aa9c&color=ffffff&labelColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&color=ffffff&labelColor=000000)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&color=ffffff&labelColor=000000)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD&color=ffffff&labelColor=000000)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD&color=ffffff&labelColor=000000)
 
 <br>
 

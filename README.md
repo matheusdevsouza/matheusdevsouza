@@ -63,7 +63,7 @@ I take pride in continuously exploring innovative ways to enhance the functional
 <br>
 
 ## 📞 Contact
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=ffffff&labelColor=000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=ffffff&labelColor=000000)](https://www.linkedin.com/in/matheusouzadev/)
 
 <br>
 

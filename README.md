@@ -1,20 +1,28 @@
-# Howdy!
+# 🔥 Howdy, I'm Matheus Souza! 🔥
 
-## I'm Matheus Souza. Welcome to my profile!
+### Welcome to my profile!
 
 
-💻 Web Developer & Software Developer!
+<br>
+💻 Web Developer & Software Developer
 
-📍 I’m from Rio de Janeiro, Brazil.
+📍 I’m from Rio de Janeiro, Brazil
 
-📚 I’m currently learning and improving my skills in software and web development.
+📚 Always learning, building, and evolving
 
-🏆 2025 Goals: Create new projects and dive deeper into web and software development skills.
-
+🏆 2025 Goals: Launch new impactful projects and level up my development skills
+<br>
  
 
 
-## About me
+## 🧠 About me
+
+I’m a Web Developer with substantial experience in building websites, handling both front-end and back-end development. Over the years, I’ve gained proficiency in technologies such as **HTML, CSS, Tailwind, JavaScript, TypeScript, PHP, Python, MySQL, React, Next.js, Angular, Figma, and WordPress**, applying these skills in diverse, large-scale projects.
+
+I take pride in continuously exploring innovative ways to enhance the functionality and user experience of the projects I work on. I value critical thinking and ongoing learning, as they are essential for creating thoughtful, well-structured solutions that are both practical and impactful.
+
+
+## ⚙ Tech Stack
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -30,10 +38,10 @@
 
 
 
-### Contact
+## 📞 Contact
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusouzadev/)
 
 
 
 
-Thanks for visiting.
+```Thanks for visiting.```
